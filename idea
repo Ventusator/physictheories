@@ -1,0 +1,12 @@
+//This project is meant to be a start for an algorithm, that should be composing physical formulas by itself.
+//For that, it might be necessary to smash all the known data in a physical simulation, and then let the algorithm "play" a little by itself. 
+//Whilst keeping track of all the formulas and conclusions the simulation can come to, all those non-recorded respectively non-found information that doesn't equals any
+//already existing thesis and/or formula, the results will be saved. If the results are the same as the already existing theories provided in the database, 
+//the simulation starts from scratch. The Iterations are infinite. At least, that's the goal.The "scratch" scenarios can vary, of course, 
+//and always will have to be updated by creative human  beings, who understands the basics of physical laws in nature, and can make predictions by it's own 
+//(without using this simulation). All "tools" and combinations will be tested out one by one, this process will probably take place a few hundred generations 
+//(from the side of the simulation AND of human generations).
+//Now the most important part: I've got basically no experience with these kind of algorithms. 
+//It's just an idea, so I wrote it down, so maybe one day, someone will work at it. Provided that what I intend to do is even possible. of course.
+
+//Thx 4 reading this idea. Cyah!
